@@ -1,5 +1,5 @@
-#Repo Clonning ⚡♥️
-RUN git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git /root/userbot
+#Repo Clonning ⚡💗
+RUN git clone https://github.com/adwin-15/lilly-userbot.git /root/userbot
 
 #working directory 
 WORKDIR /root/userbot
