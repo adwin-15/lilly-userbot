@@ -1,6 +1,6 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "ʟɪʟʟʏ",
+  "description": "𝓣𝓱𝓮 𝓑𝓮𝓼𝓽 𝓾𝓼𝓮𝓻𝓫𝓸𝓽 𝓜𝓪𝓭𝓮 𝓫𝔂 ℰ𝒹𝓌𝒾𝓃 ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ᴀɴᴅ ʙʏ ᴘʏᴛʜᴏɴ ʟᴀɴɢᴜᴀɢᴇ ᴡɪᴛʜ ʜᴀʀᴅᴡᴏʀᴋ.....💗",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
     "telegram",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/adwin-15/lilly-userbot/",
+  "website": "https://github.com/adwin-15/lilly-userbot/",
+  "success_url": "https://t.me/trmoviz",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -20,12 +20,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "ʟɪʟʟʏ",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "description": "Set Custom Alive Message When entering .alive Command.",
+      "value": "ʟɪʟʟʏ ɪs ᴏɴʟɪɴᴇ",
       "required": false
     },
     "ABUSE": {
@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@lillyuserbot",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@trmovie",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -140,7 +140,7 @@
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
     }, 
-    "LEGEND_STRING": {
+    "LILLY_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
     },
